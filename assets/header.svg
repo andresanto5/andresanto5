@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="205" viewBox="0 0 1000 205" role="img" aria-labelledby="title desc">
+  <title id="title">Carlos André — Cientista de Dados</title>
+  <desc id="desc">NLP, Machine Learning e Semantic Search. Ciência, experimentação e aplicações.</desc>
+  <rect width="1000" height="205" rx="16" fill="#111c2d"/>
+  <rect x="32" y="35" width="5" height="133" rx="2" fill="#55d4c3"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="61" y="57" font-size="13" letter-spacing="3" fill="#55d4c3">DADOS · LINGUAGEM · CIÊNCIA</text>
+    <text x="58" y="112" font-size="43" font-weight="700" fill="#f4f7fc">Carlos André</text>
+    <text x="61" y="148" font-size="21" fill="#d4dfec">Data Scientist · NLP · Machine Learning · Semantic Search</text>
+    <text x="61" y="177" font-size="15" fill="#9db0c8">Da pergunta ao experimento. Do modelo à aplicação.</text>
+  </g>
+  <g fill="none" stroke="#55d4c3" stroke-width="1.5" opacity="0.35">
+    <path d="M819 45L888 76L946 44M819 45L804 125L870 161L888 76L951 143L870 161M804 125L888 76"/>
+    <circle cx="819" cy="45" r="5"/><circle cx="888" cy="76" r="6"/>
+    <circle cx="946" cy="44" r="5"/><circle cx="804" cy="125" r="5"/>
+    <circle cx="870" cy="161" r="5"/><circle cx="951" cy="143" r="5"/>
+  </g>
+</svg>

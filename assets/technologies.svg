@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="52" viewBox="0 0 1000 52" role="img" aria-labelledby="title">
+  <title id="title">Python, SQL, scikit-learn, Transformers, FastAPI, pgvector, MLflow e Docker</title>
+  <g fill="#172538" stroke="#34465f">
+    <rect x="1" y="5" width="111" height="39" rx="7"/>
+    <rect x="121" y="5" width="91" height="39" rx="7"/>
+    <rect x="221" y="5" width="132" height="39" rx="7"/>
+    <rect x="362" y="5" width="163" height="39" rx="7"/>
+    <rect x="534" y="5" width="112" height="39" rx="7"/>
+    <rect x="655" y="5" width="115" height="39" rx="7"/>
+    <rect x="779" y="5" width="103" height="39" rx="7"/>
+    <rect x="891" y="5" width="108" height="39" rx="7"/>
+  </g>
+  <g fill="#55d4c3">
+    <circle cx="18" cy="25" r="3"/><circle cx="138" cy="25" r="3"/>
+    <circle cx="238" cy="25" r="3"/><circle cx="379" cy="25" r="3"/>
+    <circle cx="551" cy="25" r="3"/><circle cx="672" cy="25" r="3"/>
+    <circle cx="796" cy="25" r="3"/><circle cx="908" cy="25" r="3"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#e6edf5">
+    <text x="29" y="30">Python</text><text x="149" y="30">SQL</text>
+    <text x="249" y="30">scikit-learn</text><text x="390" y="30">Transformers</text>
+    <text x="562" y="30">FastAPI</text><text x="683" y="30">pgvector</text>
+    <text x="807" y="30">MLflow</text><text x="919" y="30">Docker</text>
+  </g>
+</svg>

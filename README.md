@@ -1,42 +1,55 @@
-# Carlos André
+![Carlos André — Data Scientist · NLP · Machine Learning · Semantic Search](assets/header.svg)
 
-**Data Scientist · NLP · Machine Learning · Semantic Search**
+Sou **Cientista de Dados**, com atuação em NLP e busca semântica na VERT e doutorado em Genética com foco em bioinformática. Desenvolvo e avalio soluções para transformar textos e dados em informação útil, conectando experimentação científica e aplicações práticas.
 
-I build and evaluate solutions that turn text and data into useful information. My work at Vert includes Portuguese text classification, semantic retrieval, analytical experimentation and integration with business workflows.
+[**LinkedIn ↗**](https://www.linkedin.com/in/carlos-andr%C3%A9-ab702111a/) · [**Projetos públicos ↓**](#projetos-em-destaque)
 
-## What I work on
+## Tecnologias
 
-- **Text classification:** BERTimbau and classical machine learning, class imbalance and per-class evaluation.
-- **Semantic search:** sentence embeddings, model comparison, ranking metrics and PostgreSQL/pgvector.
-- **Applied data science:** data preparation, experimental design, reproducibility and technical documentation.
-- **Integration:** Python APIs, FastAPI and workflows integrated with SAS.
+![Python · SQL · scikit-learn · Transformers · FastAPI · pgvector · MLflow · Docker](assets/technologies.svg)
 
-## Featured project
+No trabalho: classificação de texto com BERTimbau e modelos clássicos, embeddings, avaliação de ranking, PostgreSQL/pgvector e integração com SAS. Nos projetos públicos abaixo: experimentação com MLflow, APIs e execução local com Docker.
 
-### [Book Review Agentic Analytics](https://github.com/andresanto5/book-review-agentic-analytics)
+## Projetos em destaque
 
-A proof of concept developed for a technical hiring challenge. It combines structured analytics and semantic search over book reviews, with LangGraph orchestration, controlled MCP tools, FastAPI, PostgreSQL/pgvector and Amazon Bedrock for response generation.
+### [Review Triage PT ↗](https://github.com/andresanto5/review-triage-pt)
 
-**Scope:** a technical demonstration of application integration with Bedrock; it is not presented as a production AWS deployment. See the repository for architecture, setup and limitations.
+**Do texto à fila de revisão humana.** Classificação de avaliações em português usando TF-IDF e regressão logística, com separação temporal e limiar escolhido na validação.
 
-## Scientific background
+| Evidência | Entrega |
+|---|---|
+| **Macro-F1 0,9247** em 18.546 avaliações históricas de teste; referência majoritária: 0,4166 | API FastAPI, três experimentos registrados no MLflow e oito testes automatizados aprovados |
 
-PhD in Genetics from the Federal University of Pernambuco, with postdoctoral research experience in Brazil and Italy. My background in bioinformatics informs how I formulate hypotheses, design experiments and critically evaluate results.
+As notas 1/2 são um proxy de avaliação negativa. Dados de 2018, com limitações de curadoria documentadas; o resultado não representa desempenho em produção.
 
-## Technologies
+**Python · scikit-learn · MLflow · FastAPI · Docker**
 
-Python · SQL · pandas · NumPy · scikit-learn · PyTorch · Transformers · Sentence Transformers · FastAPI · PostgreSQL/pgvector · SAS · Linux
+[Resultados e limitações](https://github.com/andresanto5/review-triage-pt/blob/main/reports/INTERPRETACAO.md) · [Como executar](https://github.com/andresanto5/review-triage-pt#executar-a-demonstra%C3%A7%C3%A3o)
 
-Project experience: LangGraph · MCP · Amazon Bedrock.
+### [Book Review Agentic Analytics ↗](https://github.com/andresanto5/book-review-agentic-analytics)
 
-## About this portfolio
+**Consultas estruturadas e busca semântica sobre avaliações de livros.** Prova de conceito desenvolvida para um desafio técnico, com orquestração LangGraph, ferramentas MCP controladas e PostgreSQL/pgvector.
 
-Most of my current professional development takes place in company-managed repositories. This profile contains public projects and earlier learning work; its contribution graph does not represent all of my professional activity.
+O projeto integra Amazon Bedrock para geração de respostas e inclui uma demonstração local sem chamadas pagas, com geração final simulada e identificada. A experiência com AWS neste projeto é de integração em uma prova de conceito.
 
-## Connect
+**Python · LangGraph · MCP · FastAPI · PostgreSQL/pgvector · Amazon Bedrock**
 
-[LinkedIn](https://www.linkedin.com/in/carlos-andr%C3%A9-ab702111a/)
+[Arquitetura e demonstração](https://github.com/andresanto5/book-review-agentic-analytics#readme)
+
+## Como trabalho
+
+- **Formulo a pergunta:** defino alvo, referência de comparação e critérios de avaliação.
+- **Investigo os resultados:** analiso erros, desbalanceamento e limites dos dados.
+- **Conecto modelo e aplicação:** organizo código reproduzível, APIs e documentação técnica.
+
+## Ciência e pesquisa
+
+Doutor em Genética pela **UFPE**, com foco em bioinformática, e experiência de pós-doutorado no Brasil e na Itália. Também atuo como **professor/pesquisador adjunto no CESMAC**. Minha trajetória inclui biologia de sistemas, modelagem e dinâmica molecular e orienta o cuidado com hipóteses, desenho experimental e interpretação dos resultados.
+
+## Sobre este portfólio
+
+Boa parte do meu desenvolvimento profissional acontece em repositórios da empresa. Aqui reúno projetos públicos e trabalhos de aprendizado; o gráfico de contribuições representa apenas parte dessa atividade.
 
 ---
 
-**Em português:** Cientista de Dados com foco em NLP, machine learning e busca semântica. Doutor em Genética, com trajetória em bioinformática e pesquisa científica.
+**Vamos conversar sobre dados e NLP:** [LinkedIn](https://www.linkedin.com/in/carlos-andr%C3%A9-ab702111a/)
