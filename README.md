@@ -6,7 +6,7 @@ Sou **Cientista de Dados**, com atuação em NLP e busca semântica na VERT e do
 
 ## Tecnologias
 
-![Python · SQL · scikit-learn · Transformers · FastAPI · pgvector · MLflow · Docker](assets/technologies.svg)
+![Python · SQL · scikit-learn · Transformers · FastAPI · pgvector · MLflow · Docker](assets/technologies-grid.svg)
 
 No trabalho: classificação de texto com BERTimbau e modelos clássicos, embeddings, avaliação de ranking, PostgreSQL/pgvector e integração com SAS. Nos projetos públicos abaixo: experimentação com MLflow, APIs e execução local com Docker.
 
